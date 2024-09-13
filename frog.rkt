@@ -5,7 +5,7 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "http://www.example.com")
+  (current-scheme/host "http://www.jackherberger.github.io/blog")
   (current-title "My Blog")
   (current-author "Jack Herberger"))
 
