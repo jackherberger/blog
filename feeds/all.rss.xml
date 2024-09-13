@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>My Blog: My Blog</title>
+  <description>My Blog: My Blog</description>
+  <link>http://www.example.com/index.html</link>
+  <lastBuildDate>Fri, 13 Sep 2024 04:00:00 UT</lastBuildDate>
+  <pubDate>Fri, 13 Sep 2024 04:00:00 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>Hello, World</title>
+   <link>http://www.example.com/2024/09/hello-world.html?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-www-example-com:-2024-09-hello-world-html</guid>
+   <pubDate>Fri, 13 Sep 2024 04:00:00 UT</pubDate>
+   <author>Jack Herberger</author>
+   <description>
+&lt;p&gt;Hi there. Welcome to my blog. This is a test, you&amp;rsquo;ll be hearing more from me soon.&lt;/p&gt;</description></item></channel></rss>
